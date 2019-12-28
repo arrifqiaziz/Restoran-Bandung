@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--genaral spacing-->
+
+
+    <dimen name="design_navigation_separator_vertical_padding">1dp</dimen>
+
+    <!-- Bottom sheet  -->
+
+    <!-- Map Card View  -->
+
+    <!-- INTRO  -->
+</resources>

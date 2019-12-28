@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26A65B</color>
+    <color name="colorPrimaryDark">#1E824C</color>
+    <color name="colorAccent">#333D49</color>
+
+    <color name="black">#000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="softBlack">#2C2F37</color>
+
+    <color name="bottomtab_item_resting">#9a020101</color>
+
+    <color name="bottomtab">#fafafa</color>
+
+    <!--Material color list from https://material.io/guidelines/style/color.html-->
+
+
+    <!--Material color list from https://material.io/guidelines/style/color.html-->
+
+    <!--for random color generator -->
+
+    <!-- INTRO-->
+    <!-- Screens background color-->
+
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen2">#8cf9eb</color>
+
+</resources>

@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "566834989335",
+    "firebase_url": "https://cerebrum-220815.firebaseio.com",
+    "project_id": "cerebrum-220815",
+    "storage_bucket": "cerebrum-220815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566834989335:android:0a828f14d9b778ec",
+        "android_client_info": {
+          "package_name": "id.cerebrum.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566834989335-av6t23rnk46jpr5fek7dbvp94v81ajrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.cerebrum.app",
+            "certificate_hash": "7de2a021cbfa08d9a78f42711f9606d3a979f1a2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANxAo_hlK8Wc5HBwN99PuFVYqjUZfQLtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566834989335-05fa1thiqt1du396m92edsa7aodsqock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
